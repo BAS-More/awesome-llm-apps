@@ -47,7 +47,7 @@ docstring-parser==0.16
     # via agno
 gitdb==4.0.12
     # via gitpython
-gitpython==3.1.44
+gitpython==3.2.1
     # via
     #   agno
     #   streamlit
@@ -112,7 +112,7 @@ packaging==24.2
     #   streamlit
 pandas==2.2.3
     # via streamlit
-pillow==11.1.0
+pillow==13.0.0
     # via
     #   -r cookbook/examples/apps/tic_tac_toe/requirements.in
     #   streamlit
@@ -124,7 +124,7 @@ protobuf==5.29.3
     # via streamlit
 pyarrow==19.0.1
     # via streamlit
-pyasn1==0.6.1
+pyasn1==0.6.5
     # via
     #   pyasn1-modules
     #   rsa
